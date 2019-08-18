@@ -6,6 +6,7 @@ tmp
 
 # Environment variables, never commit this file
 .env
+config/database.js
 
 # The development sqlite file
 database/development.sqlite
